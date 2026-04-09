@@ -2,7 +2,7 @@
 
 # File Structure : 
 
-# ADS/
+ ADS/
   ├── alert/                          # Logic for notification systems
   │   ├── alert_manager.py            # Coordinates all alert types
   │   ├── sms_alert.py                # SMS notification logic (e.g., Twilio)
